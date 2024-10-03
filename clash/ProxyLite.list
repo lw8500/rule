@@ -23,10 +23,21 @@ DOMAIN-KEYWORD,ysgc
 DOMAIN-KEYWORD,duboku
 DOMAIN-KEYWORD,taozi
 DOMAIN-KEYWORD,metacubex
+DOMAIN-KEYWORD,wiki
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
+IP-CIDR,185.199.111.153/32,no-resolve
+IP-CIDR,3.123.36.126/32,no-resolve
+IP-CIDR,35.157.215.84/32,no-resolve
+IP-CIDR,35.157.217.255/32,no-resolve
+IP-CIDR,52.58.209.134/32,no-resolve
+IP-CIDR,54.93.124.31/32,no-resolve
+IP-CIDR,54.162.243.80/32,no-resolve
+IP-CIDR,54.173.34.141/32,no-resolve
+IP-CIDR,54.235.23.242/32,no-resolve
+IP-CIDR,169.45.248.118/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
