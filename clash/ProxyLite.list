@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,111tvs.com
 DOMAIN-SUFFIX,cnys.tv
 DOMAIN-SUFFIX,ysgc1.cc
 DOMAIN-SUFFIX,taozi007.com
-DOMAIN-SUFFIX,wiki.metacubex.one
+DOMAIN-SUFFIX,metacubex.one
 
 
 # 域名关键字匹配
@@ -22,7 +22,7 @@ DOMAIN-KEYWORD,cnys
 DOMAIN-KEYWORD,ysgc
 DOMAIN-KEYWORD,duboku
 DOMAIN-KEYWORD,taozi
-DOMAIN-KEYWORD,metacubex
+DOMAIN-KEYWORD,wiki
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
