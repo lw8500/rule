@@ -44,10 +44,11 @@ PROCESS-NAME,baidunetdisk.exe
 # Xbox
 URL-REGEX,assets\d+\.xboxlive\.(com|cn)
 
+#iptv视频
 DOMAIN,api-ipv4.ip.sb
 DOMAIN,cn.pool.ntp.org
 DOMAIN-SUFFIX,api-ipv4.ip.sb
-DOMAIN-SUFFIX,cn.pool.ntp.org
+DOMAIN-SUFFIX,pool.ntp.org
 
 # 360
 DOMAIN-SUFFIX,360.com
