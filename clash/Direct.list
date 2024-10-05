@@ -49,6 +49,8 @@ DOMAIN,api-ipv4.ip.sb
 DOMAIN,cn.pool.ntp.org
 DOMAIN-SUFFIX,api-ipv4.ip.sb
 DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,sf16-sg-default.akamaized.net
+DOMAIN-SUFFIX,p16-ad-sg.ibyteimg.com
 
 # 360
 DOMAIN-SUFFIX,360.com
