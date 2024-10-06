@@ -9,6 +9,11 @@ DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 
+# 国内 DNS
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve
+IP-CIDR,120.53.53.53/32,no-resolve
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
