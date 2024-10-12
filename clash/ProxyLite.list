@@ -16,6 +16,10 @@ DOMAIN-SUFFIX,voice.ai
 DOMAIN-SUFFIX,tunebat.com
 DOMAIN-SUFFIX,digitalnomadlc.com
 
+#google cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,gstatic.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
