@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+DOMAIN-SUFFIX,time.Android.com
 
 # 国内 DNS
 IP-CIDR,223.5.5.5/32,no-resolve
