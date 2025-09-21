@@ -36,6 +36,8 @@ DOMAIN-KEYWORD,duboku
 DOMAIN-KEYWORD,taozi
 DOMAIN-KEYWORD,metacubex
 DOMAIN-KEYWORD,wiki
+DOMAIN-KEYWORD,copernicus
+
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
